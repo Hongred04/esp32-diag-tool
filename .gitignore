@@ -8,3 +8,6 @@
 _r_*.png
 esp32diag_*.png
 *.log
+
+# 本地推送助手，不入库
+push.bat

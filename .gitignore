@@ -1,0 +1,10 @@
+# 二进制产物不入库，请用 Releases 分发
+*.exe
+
+# WorkBuddy 会话数据
+.workbuddy/
+
+# 本地渲染/调试产物
+_r_*.png
+esp32diag_*.png
+*.log
